@@ -1,0 +1,68 @@
+Program: cantor
+
+Test 1:
+tests\test01\cantor.inp
+tests\test01\cantor.out
+Program runed in: 109 ms
+OK
+
+Test 2:
+tests\test02\cantor.inp
+tests\test02\cantor.out
+Program runed in: 93 ms
+OK
+
+Test 3:
+tests\test03\cantor.inp
+tests\test03\cantor.out
+Program runed in: 78 ms
+OK
+
+Test 4:
+tests\test04\cantor.inp
+tests\test04\cantor.out
+Program runed in: 78 ms
+OK
+
+Test 5:
+tests\test05\cantor.inp
+tests\test05\cantor.out
+Program runed in: 46 ms
+OK
+
+Test 6:
+tests\test06\cantor.inp
+tests\test06\cantor.out
+Program runed in: 47 ms
+OK
+
+Test 7:
+tests\test07\cantor.inp
+tests\test07\cantor.out
+Program runed in: 63 ms
+OK
+
+Test 8:
+tests\test08\cantor.inp
+tests\test08\cantor.out
+Program runed in: 62 ms
+OK
+
+Test 9:
+tests\test09\cantor.inp
+tests\test09\cantor.out
+Program runed in: 46 ms
+OK
+
+Test 10:
+tests\test10\cantor.inp
+tests\test10\cantor.out
+Program runed in: 93 ms
+OK
+
+You passed 10 / 10 testcases
+Slowest testcase: 109 ms
+Fastest testcase: 46 ms
+Your point is: 100.00 / 100
+
+ACCEPTED
